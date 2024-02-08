@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @sathvik9105
 -  😄 Pronouns: He/Him
 - 👀 I’m interested in open source contributions
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on web designing.
-- 📫 Reach me <br>
-   e-mail: sathvikpasuvula2023@gmail.com ; linkedin: www.linkedin.com/in/sathvik-p-a3972328a
+- 🌱 I’m currently learning <b>web development</b>
+- 📫 How to reach me sathvikpasuvula@gmail.com
 
 
 <!---
