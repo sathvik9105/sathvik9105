@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @sathvik9105
--  😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him
 - 👀 I’m interested in open source contributions
 - 🌱 I’m currently learning <b>web development</b>
 - 📫 How to reach me sathvikpasuvula@gmail.com
+- 📝 [My Portfolio](https://sathvik9105.github.io/)
 
 
 <!---
