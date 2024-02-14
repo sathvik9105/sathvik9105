@@ -1,4 +1,4 @@
-![header](github-header-image.png)
+![header](github-header-image .png)
  
 # 💫 About Me:
 I'm Sathvik Pasuvula, <br> Undergraduate Computer Science Student @Amrita Viswa Vidyapeetham, <br>**Open Source Enthusiast**.
