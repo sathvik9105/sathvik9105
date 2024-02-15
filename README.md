@@ -1,6 +1,6 @@
 ![header](./github-header-image.png)
  
-# 💫 About Me:
+## 💫 About Me:
 I'm Sathvik Pasuvula, <br> Undergraduate Computer Science Student @Amrita Viswa Vidyapeetham, <br>**Open Source Enthusiast**.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sathvik9105&label=Profile%20views&color=d4ff00&style=flat" alt="sathvik9105" /> </p>
