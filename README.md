@@ -3,7 +3,7 @@
 ## 💫 About Me:
 I'm Sathvik Pasuvula, <br> Undergraduate Computer Science Student @Amrita Viswa Vidyapeetham, <br>**Open Source Enthusiast**.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sathvik9105&label=Profile%20views&color=d4ff00&style=flat" alt="sathvik9105" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sathvik9105&label=Profile%20views&color=0065D6&style=flat" alt="sathvik9105" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sathvik9105" alt="sathvik9105" /></a></p>
 
@@ -38,7 +38,7 @@ I'm Sathvik Pasuvula, <br> Undergraduate Computer Science Student @Amrita Viswa 
   </a>
 </p>
 
-#### Looking to start in coming days:
+### Looking to start in coming days:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
