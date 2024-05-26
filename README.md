@@ -7,7 +7,7 @@ I'm Sathvik Pasuvula, <br> Computer Science major @Amrita Viswa Vidyapeetham, <b
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sathvik9105" alt="sathvik9105" /></a></p>
 
-- 🔭 I’m currently working on **PokeDex** - a widget to display a pokemon's stats.
+- 🔭 I’m currently working on **SkyScan** - a desktop application to show weather data of any location.
 
 - 🌱 I’m currently learning **<b>Web Development</b>**
 
