@@ -7,13 +7,13 @@ I'm Sathvik Pasuvula, <br> Computer Science major @Amrita Viswa Vidyapeetham, <b
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sathvik9105" alt="sathvik9105" /></a></p>
 
-- 🔭 I’m currently working on **SkyScan** - a desktop application to show weather data of any location.
+- 🔭 I’m currently working on **SkyScan** - a web application to show weather data of any location.
 
-- 🌱 I’m currently learning **<b>Web Development</b>**
+- 🌱 I’m currently learning **<b>Full-Stack Web Development</b>**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sathvik9105](https://github.com/sathvik9105)
 
-- 📫 How to reach me **sathvikpasuvula2023@gmail.com**
+- 📫 How to reach me **sathvikpworks@gmail.com**
 
 - 📄 Know more about myself [https://sathvik9105.github.io/](https://sathvik9105.github.io/)
 
