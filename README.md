@@ -1,4 +1,4 @@
-![header](./headergithub.jpg)
+![header](./headergithub.png)
  
 ## 💫 About Me:
 Namasthe! 🙏<br>
