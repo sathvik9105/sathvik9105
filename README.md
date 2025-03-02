@@ -1,4 +1,4 @@
-![header](./headergithub.png)
+![header](./Hyderabad_RGIA_Aerial_View.png)
  
 ## 💫 About Me:
 Namasthe! 🙏<br>
