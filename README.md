@@ -45,19 +45,6 @@ Feel free to reach out for a chat about Open Source stuff, Web Development, DevO
 <a href="https://instagram.com/sathvik9105" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sathvik9105" height="30" width="40" /></a>
 
 
-
-## 💻 Tech Stack:
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,git,python,html,css,javascript,react,nodejs,postman,github,netlify&perline=6"/>
-  </a>
-</p>
-
-<!--### Looking to start in coming days:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)-->
-
-
 ## 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathvik9105&theme=merko&show_icons=true&hide_border=false&layout=compact"/></p>
 
